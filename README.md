@@ -1,2 +1,2 @@
 # Compression
-# PMC lossless compression algorithm implementation
+PMC lossless compression algorithm implementation
